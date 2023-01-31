@@ -1,1 +1,1 @@
-# multibranchpipeline
+# multibranch-sample-app
